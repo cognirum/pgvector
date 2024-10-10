@@ -8,22 +8,41 @@ All image variants are based on their official equivalents.
 
 #### Maintained by:
 
-KSI Software & Partners
+[Cognirum](https://cognirum.com)
 
-Visit the GitHub [repository](https://github.com/ksi-software/pgvector) for this project
+Visit the GitHub [repository](https://github.com/cognirum/pgvector) for this project
 
 #### Where to get help:
 
 the Docker Community Slack, Server Fault, Unix & Linux, or Stack Overflow
 
-#### Supported tags and respective Dockerfile links
+#### Supported tags
 
-**Current**: `ksisoft/pgvector:16.3-alpine`
-**Planned**: `ksisoft/pgvector:16.2-alpine`, `ksisoft/pgvector:16.3` etc.
+* `cognirum/pgvector:latest`,
+* `cognirum/pgvector:latest-alpine`,
+* `cognirum/pgvector:latest-bullseye`,
+* `cognirum/pgvector:17.0`,
+* `cognirum/pgvector:17.0-alpine`,
+* `cognirum/pgvector:17.0-bullseye`,
+* `cognirum/pgvector:16.4`,
+* `cognirum/pgvector:16.4-alpine`,
+* `cognirum/pgvector:16.4-bullseye`,
+* `cognirum/pgvector:15.8`,
+* `cognirum/pgvector:15.8-alpine`,
+* `cognirum/pgvector:15.8-bullseye`,
+* `cognirum/pgvector:14.13`,
+* `cognirum/pgvector:14.13-alpine`,
+* `cognirum/pgvector:14.13-bullseye`,
+* `cognirum/pgvector:13.16`,
+* `cognirum/pgvector:13.16-alpine`,
+* `cognirum/pgvector:13.16-bullseye`,
+* `cognirum/pgvector:12.20`,
+* `cognirum/pgvector:12.20-alpine`,
+* `cognirum/pgvector:12.20-bullseye`
 
 #### Where to file issues:
 
-https://github.com/ksi-software/pgvector/issues
+https://github.com/cognirum/pgvector/issues
 
 ## What is pgvector?
 
@@ -38,7 +57,7 @@ in your Dockerfile or Docker Compose specification:
 
 ```yaml
 database:
-  image: ksisoft/pgvector:16.3-alpine
+  image: cognirum/pgvector:17.0-alpine
 ```
 
 ## Image Variants
