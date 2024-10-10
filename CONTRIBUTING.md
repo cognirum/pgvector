@@ -1,6 +1,6 @@
 # Contributing
 
-The following is a guide towards contributing to the ksisoft/pgvector project.
+The following is a guide towards contributing to the cognirum/pgvector project.
 This document describes the typical workflow, the standards, branching strategy and commit message conventions.
 
 ## Commit Messages
@@ -32,9 +32,9 @@ At minimum, you only need to do the following two steps:
 
 1. Build the Docker image
    ```shell
-   docker build -t ksisoft/pgvector:16.3-alpine .
+   docker build -t cognirum/pgvector:16.3-alpine .
    ```
 2. Push the Docker image to Docker Hub
    ```shell
-   docker push ksisoft/pgvector:16.3-alpine
+   docker push cognirum/pgvector:16.3-alpine
    ```
