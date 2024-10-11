@@ -18,27 +18,12 @@ the Docker Community Slack, Server Fault, Unix & Linux, or Stack Overflow
 
 #### Supported tags
 
-* `cognirum/pgvector:latest`,
-* `cognirum/pgvector:latest-alpine`,
-* `cognirum/pgvector:latest-bullseye`,
-* `cognirum/pgvector:17.0`,
-* `cognirum/pgvector:17.0-alpine`,
-* `cognirum/pgvector:17.0-bullseye`,
-* `cognirum/pgvector:16.4`,
-* `cognirum/pgvector:16.4-alpine`,
-* `cognirum/pgvector:16.4-bullseye`,
-* `cognirum/pgvector:15.8`,
-* `cognirum/pgvector:15.8-alpine`,
-* `cognirum/pgvector:15.8-bullseye`,
-* `cognirum/pgvector:14.13`,
-* `cognirum/pgvector:14.13-alpine`,
-* `cognirum/pgvector:14.13-bullseye`,
-* `cognirum/pgvector:13.16`,
-* `cognirum/pgvector:13.16-alpine`,
-* `cognirum/pgvector:13.16-bullseye`,
-* `cognirum/pgvector:12.20`,
-* `cognirum/pgvector:12.20-alpine`,
-* `cognirum/pgvector:12.20-bullseye`
+* `latest`, `17.0`, `17.0-alpine`, `17.0-bullseye`,
+* `16.4`, `16.4-alpine`, `16.4-bullseye`, `16.4-bookwrom`,
+* `15.8`, `15.8-alpine`, `15.8-bullseye`, `15.8-bookworm`,
+* `14.13`, `14.13-alpine`, `14.13-bullseye`, `14.13-bookworm`,
+* `13.16`, `13.16-alpine`, `13.16-bullseye`, `13.16-bookworm`,
+* `12.20`, `12.20-alpine`, `12.20-bullseye`, `12.20-bookworm`
 
 #### Where to file issues:
 
